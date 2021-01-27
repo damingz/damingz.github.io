@@ -1,0 +1,73 @@
+==================================================================
+https://keybase.io/daming
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://damingz.github.io
+  * I am daming (https://keybase.io/daming) on keybase.
+  * I have a public key with fingerprint 2350 9318 D13E CF37 17A1  C19C 9D9C B7C9 79C6 5165
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "010135569ea12ad42d49cf176c747ca98d172949df2cdecbf224d075a7c528d2a1ca0a",
+      "fingerprint": "23509318d13ecf3717a1c19c9d9cb7c979c65165",
+      "host": "keybase.io",
+      "key_id": "9d9cb7c979c65165",
+      "kid": "010135569ea12ad42d49cf176c747ca98d172949df2cdecbf224d075a7c528d2a1ca0a",
+      "uid": "9749b1683962982a3d81f12cdba14919",
+      "username": "daming"
+    },
+    "service": {
+      "hostname": "damingz.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1611709416,
+  "expire_in": 157680000,
+  "prev": "fc277f5ddd71b799b2f0c4e82a7a07d450f98213fffbdf4acf8c5dc923dfe0b3",
+  "seqno": 4,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+
+owGtUmtQVGUY3uXiEMgMN7k4lHUsSl13zncu++1Zg2obxUYaYaRMQeCc852znBb2
+rLvLvUUC1PHCgOJgxmKAwwCTYBNryKXALghdvWDaTANeCBHLy2RLplnnaP5opp99
+f7753vd5nvd5vnnrQv01wdomT+9YyUiaoP3qKqfJCRvwlWGcjEowUxlmFR5cQh4S
+nK5sq4QwE4YDHJA0bWAEFhAsoghEMbwIoIGHFORZxogAJBiKQSLBI4HnRIKgEA5p
+FvI0YUQEC3gWZzEdJko2i+CwOySbS5ElSBpnSKCwSYEXSQigAgQMzyCG5yDPQIY3
+0MBAK8Rc2akyFHMc6xT0kqzUlEf2A3v/gf+ffRc8nAMphgMGI8kYCMZIsCQyAhEo
+VI4FFAMYFegUHDY2X1DQiM1X0mJuHabUCiVeUL9VzfGvfqneIrlyC7iHkewO2SXz
+cp7SznW57E6TSneV2FV8kcBl/6OUzUk2pIrrsELB4ZRkG2YCCpJ3Sao0MAAAcYYC
+Bh0mFNslh5AtqQgaGoy4ctQ5QqEiKfIEzIAijRCCgIMMwxEizlOCkg2yOEQUjYtK
+UECKosghkWJ50cjTiGcIEokCzpGYGm6zTcZMlOKTtSiaTsliY10FDgFzB+/wIwM0
+2mDN49FPBSxOrY89lfQdjGk57nm0foF+6u5pgh8Le1R54naYpk1KvLc1fWLVb18O
+JXX+4Hul/sJzpB3oEvdcy/dUpU1g5/6a2muddM9Zb3EDF4403Gjtnh5ef8B9+sW2
+idbqbQm/7nqpXd+r3X08NJALj0nOzYg63zFaFNc1cf7Y3cSFVUWDmw0px8CSWfP+
+nmTOji5f6WTX1R54O6d+oan5brUVnwzqu186+EfI2nl3J2/1J4C2b7WYqXxmy+2m
+Tdv3V4Uu4usaZtt9/d5zu9pRne6XxgaPNna1nkr+ac/K8u1r/vx5cEVzVv0nkTuH
+YtITeyZiw9Z/D74uHst6jzy8YVGkjzzSN/AZ4fM2HGytHD7xe8Pc3vL7o+YUwXzv
+oPtUaNqY87UKtj/IG3kzK/KbwE1BuckdFvOWuojRZc2ZzOIMU0fq0aFKx9Jnb8hv
+xTfmBN7JrCk5U7IARvda5s+7GZVfuTaz9eRF4gWcexW+3lf+8qq4oQ866dn08dKV
+NT15tRvNxe+/ob/kqQ30TC/5sehsxG5r/YaPPsXHnlmxpiw6P2rk7PPxsKa7Ynym
+d/rp5SGWa+Zu/6nrI8tadia5y975mGuZbW96d9sCX/Lcaf6L4cit0pWAE0Ksdzy0
+ejy8/+Jk1+GIO096+Yqr3pTrTR3y6sHGEd3lhDeRJ2B57bqUk+Fdh/Rx8RuNbcEF
+l/YZ4VENN7VUnjt05vPUOW6fP+czhkix82c+9Psb
+=SW5i
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/daming
+
+==================================================================
+
